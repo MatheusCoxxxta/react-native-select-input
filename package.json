@@ -1,0 +1,24 @@
+{
+  "name": "rnlibs",
+  "version": "1.0.0",
+  "description": "Simple React Native select input",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React-Native"
+  ],
+  "author": "Matheus Costa (MatheusCoxxxta)",
+  "license": "ISC",
+  "dependencies": {
+    "@types/styled-components-react-native": "^5.1.0",
+    "react-native": "^0.63.4",
+    "react-native-gesture-handler": "^1.9.0",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.63.45",
+    "@types/styled-components": "^5.1.7"
+  }
+}
